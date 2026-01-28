@@ -5,8 +5,8 @@ The program allows users to create accounts, deposit and withdraw money, and vie
 This project was built as part of my C++ learning journey to practice classes, objects, inheritance, and encapsulation.
 
 ## Features
-Create a Savings Account
-Create a Current Account
-Deposit money
-Withdraw money with balance checking
+Create a Savings Account,
+Create a Current Account,
+Deposit money,
+Withdraw money with balance checking,
 Display account details
